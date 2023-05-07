@@ -4,7 +4,7 @@ import time
 import socket
 from urllib.parse import urlparse
 
-print("This shell will display any connected IP addresses that are on the list of malicious IPs or URL addresses")
+print("This shell will display any connected IP addresses that are on the list of malicious IPs or domain addresses")
 
 # Read IP address entries continuously
 def get_ips(file_path):
