@@ -26,7 +26,7 @@ You can change the refresh rate for app.py and ip_checker.py to be more or less 
 
 ### Usage
 
-This is useful defensive tool. You will be able to see your port connections with the internet and you will also see what processes are prompting the connection. 
+This is a useful defensive tool. You will be able to see your port connections with the internet and you will also see what processes are prompting the connection. 
 
 
 ### See also
