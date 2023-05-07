@@ -33,7 +33,7 @@ if __name__ == "__main__":
         while True:
             connections = get_connections()
             print_connections(connections)
-            time.sleep(5)  # Update every 5 seconds
+            time.sleep(3)  # Update every 3 seconds
     except KeyboardInterrupt:
         # Handle keyboard interrupt (Ctrl+C) to exit the script
         print("Exiting...")
