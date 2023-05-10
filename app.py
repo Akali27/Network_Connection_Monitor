@@ -8,7 +8,7 @@ def get_connections():
     connections = psutil.net_connections(kind='inet')
     return connections
 
-#Print network connections
+#Print all network connections
 def print_connections(connections):
     print("PID    Protocol    Local IP                 Local Port                Remote IP           Remote Port        Status")
     print("----------------------------------------------------------------------------------------------------------------------------------")
