@@ -1,5 +1,6 @@
-## README 
+## Port_Connection_Monitor
 
+This applications monitors all your inbound/outbound internet connections and lists the ports involved. It will also send a warning if a connection is made with an IP/Domain address that's on the list of unwanted IPs and domains. 
 
 ## Description
 
@@ -17,7 +18,7 @@ pip install psutil, this is used to monitor system resources including network c
 
 ### Operation 
 
-Run app.py from terminal. It will automatically launch a second shell, ip_checker.py, while the app.py shell will display network connections and update the list every 3 seconds. ip_checker.py will update every 3 seconds and it will warn the user when there is an active connection to an entry from the list at ips.txt 
+Run app.py from terminal. It will then launch a second shell, ip_checker.py, while the app.py shell will display network connections and update the list every 3 seconds. ip_checker.py will update every 3 seconds and it will warn the user when there is an active connection to an entry from the list at ips.txt 
 
 ### Optional 
 
