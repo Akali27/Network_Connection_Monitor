@@ -12,7 +12,7 @@ This application monitors network connections and checks for any connected IP ad
 ## Requirements
 
 - Python 3.x
-- psutil (pip install psutil)
+- psutil
 
 ## Usage
 
