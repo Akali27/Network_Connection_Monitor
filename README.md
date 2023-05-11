@@ -37,7 +37,7 @@ ip_checker.py is responsible for:
 
 ### Optional 
 
-Use ips.txt to add to the list. You can add IP addresses or domains, the script will resolve domain names to IPs. You can add entries to the list and hit save while the program is running and it will incorporate the updates to the list after 3 seconds. 
+Use ips.txt to add IP addresses or domains, the script will resolve domain names to IPs. You can add entries to the list and hit save while the program is running and it will incorporate the updates to the list after 3 seconds. 
 You can change the refresh rate for app.py and ip_checker.py to be more or less than 3 seconds. 
 
 ## See also
