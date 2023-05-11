@@ -1,4 +1,4 @@
-# ip_checker.py
+# Import Dependencies
 import psutil
 import time
 import socket
