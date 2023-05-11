@@ -1,6 +1,6 @@
 ## Network Connection Monitor
 
-This application monitors network connections and checks for any connected IP addresses that are on a list of malicious IPs or domain addresses. The application consists of two Python scripts, 'app.py' and 'ip_checker.py'.
+This application monitors network connections and checks for any connected IP addresses that are on a list of malicious IPs or domain addresses. The application consists of two Python scripts, app.py and ip_checker.py files.
 
 ## Features 
 
